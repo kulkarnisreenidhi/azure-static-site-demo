@@ -9,8 +9,7 @@ This repository contains a simple static website built using HTML and CSS, deplo
 
 ## 🌐 Live Demo
 
-> 🚀 [Visit the deployed website here](https://your-azure-app-name.azurestaticapps.net)  
-> *(Replace this with your actual deployed URL)*
+> 🚀 [Visit the deployed website here](https://black-pebble-0e4115210.6.azurestaticapps.net/)  
 
 ---
 
